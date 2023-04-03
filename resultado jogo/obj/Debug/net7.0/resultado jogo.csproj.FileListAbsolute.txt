@@ -1,0 +1,30 @@
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\resultado jogo\bin\Debug\net7.0\resultado jogo.exe
+C:\Users\38985141880\Desktop\resultado jogo\bin\Debug\net7.0\resultado jogo.deps.json
+C:\Users\38985141880\Desktop\resultado jogo\bin\Debug\net7.0\resultado jogo.runtimeconfig.json
+C:\Users\38985141880\Desktop\resultado jogo\bin\Debug\net7.0\resultado jogo.dll
+C:\Users\38985141880\Desktop\resultado jogo\bin\Debug\net7.0\resultado jogo.pdb
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.dll
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\refint\resultado jogo.dll
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.pdb
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\resultado jogo.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\resultado jogo\obj\Debug\net7.0\ref\resultado jogo.dll
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\bin\Debug\net7.0\resultado jogo.exe
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\bin\Debug\net7.0\resultado jogo.deps.json
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\bin\Debug\net7.0\resultado jogo.runtimeconfig.json
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\bin\Debug\net7.0\resultado jogo.dll
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\bin\Debug\net7.0\resultado jogo.pdb
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.dll
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\refint\resultado jogo.dll
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.pdb
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\resultado jogo.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\exercicios para entregar\resultado jogo\obj\Debug\net7.0\ref\resultado jogo.dll
